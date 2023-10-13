@@ -1,0 +1,90 @@
+Linux tarragon 6.1.49-chargebyte+g9dbc76303a17 #1 PREEMPT Tue Aug 29 12:37:06 UTC 2023 armv7l armv7l armv7l GNU/Linux
+
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast master br0 state UP mode DEFAULT group default qlen 1000
+    link/ether 00:01:87:0c:10:18 brd ff:ff:ff:ff:ff:ff
+
+tcp_congestion_control: cubic
+tcp_tso_rtt_log: 0
+
+Fri Oct 13 15:04:09 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:10 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:11 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:12 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:13 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:14 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:15 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:16 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:17 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:18 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:19 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:20 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:21 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:22 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:24 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:25 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:26 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:27 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:28 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:29 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      327248  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
+Fri Oct 13 15:04:30 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      408336  192.168.1.12:33284 192.168.1.129:5001 timer:(on,040ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
+Fri Oct 13 15:04:31 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      492320  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
+Fri Oct 13 15:04:32 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      347520  192.168.1.12:33284 192.168.1.129:5001 timer:(on,040ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
+Fri Oct 13 15:04:33 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      362000  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
+Fri Oct 13 15:04:34 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      422816  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
+Fri Oct 13 15:04:35 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      415576  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
+Fri Oct 13 15:04:36 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      425712  192.168.1.12:33284 192.168.1.129:5001 timer:(on,020ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
+Fri Oct 13 15:04:37 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      571960  192.168.1.12:33284 192.168.1.129:5001 timer:(on,040ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:160 ssthresh:20 reordering:0
+Fri Oct 13 15:04:38 CEST 2023
+State      Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+FIN-WAIT-1 0      3617    192.168.1.12:33284 192.168.1.129:5001 timer:(on,040ms,0) ino:0 sk:414f52af rto:0.21 cwnd:222 ssthresh:20 reordering:0
+Fri Oct 13 15:04:39 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:40 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:41 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:42 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:43 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:44 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+Fri Oct 13 15:04:45 CEST 2023
+State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess

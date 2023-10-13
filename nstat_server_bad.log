@@ -1,0 +1,442 @@
+Linux stefanw-SCHENKER 6.2.0-34-generic #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+
+Fr 13. Okt 15:22:39 CEST 2023
+#kernel
+Fr 13. Okt 15:22:40 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:22:41 CEST 2023
+#kernel
+Fr 13. Okt 15:22:42 CEST 2023
+#kernel
+Fr 13. Okt 15:22:43 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:22:44 CEST 2023
+#kernel
+Fr 13. Okt 15:22:45 CEST 2023
+#kernel
+Fr 13. Okt 15:22:46 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:22:47 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+IpOutRequests                   1                  0.0
+IcmpOutMsgs                     1                  0.0
+IcmpOutDestUnreachs             1                  0.0
+IcmpMsgOutType3                 1                  0.0
+UdpNoPorts                      1                  0.0
+IpExtInOctets                   78                 0.0
+IpExtOutOctets                  106                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:22:48 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+IpOutRequests                   1                  0.0
+IcmpOutMsgs                     1                  0.0
+IcmpOutDestUnreachs             1                  0.0
+IcmpMsgOutType3                 1                  0.0
+UdpNoPorts                      1                  0.0
+IpExtInOctets                   78                 0.0
+IpExtOutOctets                  106                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:22:49 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:22:50 CEST 2023
+#kernel
+Fr 13. Okt 15:22:51 CEST 2023
+#kernel
+Fr 13. Okt 15:22:52 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:22:53 CEST 2023
+#kernel
+Fr 13. Okt 15:22:54 CEST 2023
+#kernel
+Fr 13. Okt 15:22:55 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:22:56 CEST 2023
+#kernel
+Fr 13. Okt 15:22:57 CEST 2023
+#kernel
+Fr 13. Okt 15:22:58 CEST 2023
+#kernel
+IpInReceives                    3                  0.0
+IpInDelivers                    3                  0.0
+IpOutRequests                   2                  0.0
+IcmpOutMsgs                     2                  0.0
+IcmpOutDestUnreachs             2                  0.0
+IcmpMsgOutType3                 2                  0.0
+UdpNoPorts                      2                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   357                0.0
+IpExtOutOctets                  212                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                3                  0.0
+Fr 13. Okt 15:22:59 CEST 2023
+#kernel
+Fr 13. Okt 15:23:00 CEST 2023
+#kernel
+Fr 13. Okt 15:23:01 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:23:02 CEST 2023
+#kernel
+IpInReceives                    987                0.0
+IpInDelivers                    987                0.0
+IpOutRequests                   542                0.0
+TcpPassiveOpens                 1                  0.0
+TcpInSegs                       987                0.0
+TcpOutSegs                      542                0.0
+TcpExtTCPHPHits                 2                  0.0
+TcpExtTCPPureAcks               1                  0.0
+TcpExtTCPRcvCoalesce            21                 0.0
+IpExtInOctets                   1617964            0.0
+IpExtOutOctets                  28140              0.0
+IpExtInNoECTPkts                1084               0.0
+Fr 13. Okt 15:23:03 CEST 2023
+#kernel
+IpInReceives                    6051               0.0
+IpInDelivers                    6051               0.0
+IpOutRequests                   3226               0.0
+TcpInSegs                       6052               0.0
+TcpOutSegs                      3226               0.0
+IpExtInOctets                   10414452           0.0
+IpExtOutOctets                  167752             0.0
+IpExtInNoECTPkts                6975               0.0
+Fr 13. Okt 15:23:04 CEST 2023
+#kernel
+IpInReceives                    6070               0.0
+IpInDelivers                    6070               0.0
+IpOutRequests                   3244               0.0
+TcpInSegs                       6068               0.0
+TcpOutSegs                      3244               0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   10440205           0.0
+IpExtOutOctets                  168688             0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                6993               0.0
+Fr 13. Okt 15:23:05 CEST 2023
+#kernel
+IpInReceives                    6069               0.0
+IpInDelivers                    6069               0.0
+IpOutRequests                   3234               0.0
+TcpInSegs                       6069               0.0
+TcpOutSegs                      3234               0.0
+IpExtInOctets                   10445744           0.0
+IpExtOutOctets                  168116             0.0
+IpExtInNoECTPkts                6996               0.0
+Fr 13. Okt 15:23:06 CEST 2023
+#kernel
+IpInReceives                    6056               0.0
+IpInDelivers                    6056               0.0
+IpOutRequests                   3225               0.0
+TcpInSegs                       6056               0.0
+TcpOutSegs                      3225               0.0
+IpExtInOctets                   10429244           0.0
+IpExtOutOctets                  167752             0.0
+IpExtInNoECTPkts                6985               0.0
+Fr 13. Okt 15:23:07 CEST 2023
+#kernel
+IpInReceives                    6031               0.0
+IpInDelivers                    6031               0.0
+IpOutRequests                   3224               0.0
+TcpInSegs                       6030               0.0
+TcpOutSegs                      3224               0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   10375965           0.0
+IpExtOutOctets                  167700             0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                6950               0.0
+Fr 13. Okt 15:23:08 CEST 2023
+#kernel
+IpInReceives                    6053               0.0
+IpInDelivers                    6053               0.0
+IpOutRequests                   3232               0.0
+TcpInSegs                       6053               0.0
+TcpOutSegs                      3232               0.0
+IpExtInOctets                   10440516           0.0
+IpExtOutOctets                  167960             0.0
+IpExtInNoECTPkts                6993               0.0
+Fr 13. Okt 15:23:09 CEST 2023
+#kernel
+IpInReceives                    6082               0.0
+IpInDelivers                    6082               0.0
+IpOutRequests                   3232               0.0
+IcmpOutMsgs                     2                  0.0
+IcmpOutDestUnreachs             2                  0.0
+IcmpMsgOutType3                 2                  0.0
+TcpInSegs                       6080               0.0
+TcpOutSegs                      3230               0.0
+UdpNoPorts                      2                  0.0
+IpExtInOctets                   10456816           0.0
+IpExtOutOctets                  168276             0.0
+IpExtInNoECTPkts                7005               0.0
+Fr 13. Okt 15:23:10 CEST 2023
+#kernel
+IpInReceives                    6134               0.0
+IpInDelivers                    6134               0.0
+IpOutRequests                   3270               0.0
+TcpInSegs                       6133               0.0
+TcpOutSegs                      3270               0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   10544737           0.0
+IpExtOutOctets                  169988             0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                7063               0.0
+Fr 13. Okt 15:23:11 CEST 2023
+#kernel
+IpInReceives                    6087               0.0
+IpInDelivers                    6087               0.0
+IpOutRequests                   3240               0.0
+TcpInSegs                       6086               0.0
+TcpOutSegs                      3240               0.0
+Ip6InReceives                   1                  0.0
+Ip6InDelivers                   1                  0.0
+Ip6InMcastPkts                  1                  0.0
+Ip6InOctets                     76                 0.0
+Ip6InMcastOctets                76                 0.0
+Ip6InNoECTPkts                  1                  0.0
+Icmp6InMsgs                     1                  0.0
+Icmp6InGroupMembQueries         1                  0.0
+Icmp6InType130                  1                  0.0
+IpExtInMcastPkts                2                  0.0
+IpExtInOctets                   10481524           0.0
+IpExtOutOctets                  168480             0.0
+IpExtInMcastOctets              64                 0.0
+IpExtInNoECTPkts                7022               0.0
+Fr 13. Okt 15:23:12 CEST 2023
+#kernel
+IpInReceives                    4977               0.0
+IpInDelivers                    4976               0.0
+IpOutRequests                   2648               0.0
+TcpInSegs                       4975               0.0
+TcpOutSegs                      2648               0.0
+TcpExtTCPPureAcks               1                  0.0
+TcpExtTCPOrigDataSent           1                  0.0
+TcpExtTCPDelivered              1                  0.0
+IpExtInOctets                   8560878            0.0
+IpExtOutOctets                  137748             0.0
+IpExtInNoECTPkts                5736               0.0
+Fr 13. Okt 15:23:14 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:23:15 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+Ip6InReceives                   2                  0.0
+Ip6InMcastPkts                  2                  0.0
+Ip6InOctets                     252                0.0
+Ip6InMcastOctets                252                0.0
+Ip6InNoECTPkts                  2                  0.0
+IpExtInMcastPkts                1                  0.0
+IpExtInOctets                   46                 0.0
+IpExtInMcastOctets              32                 0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:23:16 CEST 2023
+#kernel
+Fr 13. Okt 15:23:17 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+Ip6InReceives                   1                  0.0
+Ip6OutRequests                  1                  0.0
+Ip6InMcastPkts                  1                  0.0
+Ip6OutMcastPkts                 1                  0.0
+Ip6InOctets                     136                0.0
+Ip6OutOctets                    96                 0.0
+Ip6InMcastOctets                136                0.0
+Ip6OutMcastOctets               96                 0.0
+Ip6InNoECTPkts                  1                  0.0
+Icmp6OutMsgs                    1                  0.0
+Icmp6OutMLDv2Reports            1                  0.0
+Icmp6OutType143                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:23:18 CEST 2023
+#kernel
+Fr 13. Okt 15:23:19 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpExtInOctets                   46                 0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:23:20 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:23:21 CEST 2023
+#kernel
+IpInReceives                    2                  0.0
+IpInDelivers                    2                  0.0
+IpOutRequests                   2                  0.0
+IcmpOutMsgs                     2                  0.0
+IcmpOutDestUnreachs             2                  0.0
+IcmpMsgOutType3                 2                  0.0
+UdpNoPorts                      2                  0.0
+Ip6InReceives                   1                  0.0
+Ip6InMcastPkts                  1                  0.0
+Ip6InOctets                     76                 0.0
+Ip6InMcastOctets                76                 0.0
+Ip6InNoECTPkts                  1                  0.0
+IpExtInOctets                   156                0.0
+IpExtOutOctets                  212                0.0
+IpExtInNoECTPkts                2                  0.0
+Fr 13. Okt 15:23:22 CEST 2023
+#kernel
+Fr 13. Okt 15:23:23 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:23:24 CEST 2023
+#kernel
+Fr 13. Okt 15:23:25 CEST 2023
+#kernel
+Fr 13. Okt 15:23:26 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:23:27 CEST 2023
+#kernel
+Fr 13. Okt 15:23:28 CEST 2023
+#kernel
+Fr 13. Okt 15:23:29 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
+Fr 13. Okt 15:23:30 CEST 2023
+#kernel
+Fr 13. Okt 15:23:31 CEST 2023
+#kernel
+Fr 13. Okt 15:23:32 CEST 2023
+#kernel
+IpInReceives                    5                  0.0
+IpInDelivers                    5                  0.0
+IpOutRequests                   2                  0.0
+IcmpOutMsgs                     2                  0.0
+IcmpOutDestUnreachs             2                  0.0
+IcmpMsgOutType3                 2                  0.0
+UdpInDatagrams                  2                  0.0
+UdpNoPorts                      2                  0.0
+UdpIgnoredMulti                 1                  0.0
+Ip6InReceives                   2                  0.0
+Ip6InDelivers                   2                  0.0
+Ip6InMcastPkts                  2                  0.0
+Ip6InOctets                     343                0.0
+Ip6InMcastOctets                343                0.0
+Ip6InNoECTPkts                  2                  0.0
+Udp6InDatagrams                 2                  0.0
+IpExtInMcastPkts                2                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   648                0.0
+IpExtOutOctets                  212                0.0
+IpExtInMcastOctets              291                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                5                  0.0
+Fr 13. Okt 15:23:33 CEST 2023
+#kernel
+IpInReceives                    2                  0.0
+IpInDelivers                    2                  0.0
+UdpInDatagrams                  2                  0.0
+Ip6InReceives                   2                  0.0
+Ip6InDelivers                   2                  0.0
+Ip6InMcastPkts                  2                  0.0
+Ip6InOctets                     510                0.0
+Ip6InMcastOctets                510                0.0
+Ip6InNoECTPkts                  2                  0.0
+Udp6InDatagrams                 2                  0.0
+IpExtInMcastPkts                2                  0.0
+IpExtInOctets                   458                0.0
+IpExtInMcastOctets              458                0.0
+IpExtInNoECTPkts                2                  0.0
+Fr 13. Okt 15:23:34 CEST 2023
+#kernel
+Fr 13. Okt 15:23:35 CEST 2023
+#kernel
+IpInReceives                    1                  0.0
+IpInDelivers                    1                  0.0
+UdpIgnoredMulti                 1                  0.0
+IpExtInBcastPkts                1                  0.0
+IpExtInOctets                   201                0.0
+IpExtInBcastOctets              201                0.0
+IpExtInNoECTPkts                1                  0.0
