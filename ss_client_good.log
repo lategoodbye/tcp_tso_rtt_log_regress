@@ -1,4 +1,4 @@
-Linux tarragon 6.1.49-chargebyte+g9dbc76303a17 #1 PREEMPT Tue Aug 29 12:37:06 UTC 2023 armv7l armv7l armv7l GNU/Linux
+Linux tarragon 6.1.49-chargebyte-640416-g95daf66a2f26-dirty #24 PREEMPT Sun Oct 15 11:33:54 CEST 2023 armv7l armv7l armv7l GNU/Linux
 
 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast master br0 state UP mode DEFAULT group default qlen 1000
     link/ether 00:01:87:0c:10:18 brd ff:ff:ff:ff:ff:ff
@@ -6,85 +6,67 @@ Linux tarragon 6.1.49-chargebyte+g9dbc76303a17 #1 PREEMPT Tue Aug 29 12:37:06 UT
 tcp_congestion_control: cubic
 tcp_tso_rtt_log: 0
 
-Fri Oct 13 15:04:09 CEST 2023
+Sun Oct 15 12:10:20 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:10 CEST 2023
+Sun Oct 15 12:10:21 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:11 CEST 2023
+Sun Oct 15 12:10:22 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:12 CEST 2023
+Sun Oct 15 12:10:23 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:13 CEST 2023
+Sun Oct 15 12:10:24 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:14 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:15 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:16 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:17 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:18 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:19 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:20 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:21 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:22 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:24 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:25 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:26 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:27 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:28 CEST 2023
-State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:29 CEST 2023
+Sun Oct 15 12:10:25 CEST 2023
 State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-ESTAB 0      327248  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
-Fri Oct 13 15:04:30 CEST 2023
+ESTAB 0      337384  192.168.1.12:50532 192.168.1.129:5001 timer:(on,210ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t55728,tb452480,f1752,w342312,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:8.815/1.733 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:101 ssthresh:20 bytes_sent:3440448 bytes_acked:3439001 segs_out:2378 segs_in:1174 data_segs_out:2376 send 132726489bps lastsnd:10 lastrcv:310 pacing_rate 159269528bps delivery_rate 103795192bps delivered:2376 busy:310ms unacked:1 rcv_space:14480 rcv_ssthresh:64088 notsent:335936 minrtt:0.507
+Sun Oct 15 12:10:26 CEST 2023
 State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-ESTAB 0      408336  192.168.1.12:33284 192.168.1.129:5001 timer:(on,040ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
-Fri Oct 13 15:04:31 CEST 2023
+ESTAB 0      364896  192.168.1.12:50532 192.168.1.129:5001 timer:(on,040ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t66568,tb479360,f3488,w373344,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:6.822/1.136 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:107 ssthresh:20 bytes_sent:15440024 bytes_acked:15400929 segs_out:10665 segs_in:5202 data_segs_out:10663 send 181689827bps lastrcv:1360 pacing_rate 218023792bps delivery_rate 93797568bps delivered:10637 busy:1360ms unacked:27 rcv_space:14480 rcv_ssthresh:64088 notsent:325800 minrtt:0.507
+Sun Oct 15 12:10:27 CEST 2023
 State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-ESTAB 0      492320  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
-Fri Oct 13 15:04:32 CEST 2023
+ESTAB 0      466256  192.168.1.12:50532 192.168.1.129:5001 timer:(on,030ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t68016,tb479360,f2544,w472592,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:4.76/1.073 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:107 ssthresh:20 bytes_sent:27471456 bytes_acked:27419329 segs_out:18974 segs_in:9276 data_segs_out:18972 send 260396639bps lastsnd:10 lastrcv:2410 pacing_rate 312434936bps delivery_rate 112596152bps delivered:18937 busy:2410ms unacked:36 rcv_space:14480 rcv_ssthresh:64088 notsent:414128 minrtt:0.507
+Sun Oct 15 12:10:28 CEST 2023
 State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-ESTAB 0      347520  192.168.1.12:33284 192.168.1.129:5001 timer:(on,040ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
-Fri Oct 13 15:04:33 CEST 2023
+ESTAB 0      466256  192.168.1.12:50532 192.168.1.129:5001 timer:(on,040ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t61440,tb479360,f3824,w475408,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:5.461/1.486 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:107 ssthresh:20 bytes_sent:39773664 bytes_acked:39734569 segs_out:27470 segs_in:13442 data_segs_out:27468 send 226970884bps lastrcv:3490 pacing_rate 272321424bps delivery_rate 93635096bps delivered:27442 busy:3490ms unacked:27 rcv_space:14480 rcv_ssthresh:64088 notsent:427160 minrtt:0.507
+Sun Oct 15 12:10:29 CEST 2023
 State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-ESTAB 0      362000  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
-Fri Oct 13 15:04:34 CEST 2023
+ESTAB 0      432952  192.168.1.12:50532 192.168.1.129:5001 timer:(on,040ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t45592,tb479360,f3784,w438584,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:5.816/1.379 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:107 ssthresh:20 bytes_sent:51909352 bytes_acked:51887633 segs_out:35851 segs_in:17520 data_segs_out:35849 send 213116919bps lastsnd:10 lastrcv:4550 pacing_rate 255729304bps delivery_rate 104241104bps delivered:35835 busy:4550ms unacked:15 rcv_space:14480 rcv_ssthresh:64088 notsent:411232 minrtt:0.507
+Sun Oct 15 12:10:30 CEST 2023
 State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-ESTAB 0      422816  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
-Fri Oct 13 15:04:35 CEST 2023
+ESTAB 0      401096  192.168.1.12:50532 192.168.1.129:5001 timer:(on,030ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t66568,tb479360,f2872,w406728,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:4.709/1.253 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:107 ssthresh:20 bytes_sent:63953816 bytes_acked:63908929 segs_out:44169 segs_in:21580 data_segs_out:44167 send 263216819bps lastsnd:10 lastrcv:5600 pacing_rate 315843408bps delivery_rate 101136328bps delivered:44137 busy:5600ms unacked:31 rcv_space:14480 rcv_ssthresh:64088 notsent:356208 minrtt:0.507
+Sun Oct 15 12:10:31 CEST 2023
 State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-ESTAB 0      415576  192.168.1.12:33284 192.168.1.129:5001 timer:(on,030ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
-Fri Oct 13 15:04:36 CEST 2023
+ESTAB 0      435848  192.168.1.12:50532 192.168.1.129:5001 timer:(on,040ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t47040,tb479360,f888,w441480,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:5.012/0.875 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:107 ssthresh:20 bytes_sent:76020000 bytes_acked:75993937 segs_out:52502 segs_in:25626 data_segs_out:52500 send 247304070bps lastrcv:6650 pacing_rate 296757480bps delivery_rate 112775448bps delivered:52483 busy:6650ms unacked:18 rcv_space:14480 rcv_ssthresh:64088 notsent:409784 minrtt:0.507
+Sun Oct 15 12:10:32 CEST 2023
 State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-ESTAB 0      425712  192.168.1.12:33284 192.168.1.129:5001 timer:(on,020ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:106 ssthresh:20 reordering:0
-Fri Oct 13 15:04:37 CEST 2023
+ESTAB 0      469152  192.168.1.12:50532 192.168.1.129:5001 timer:(on,030ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t54984,tb479360,f2336,w476896,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:4.949/0.684 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:107 ssthresh:20 bytes_sent:88120936 bytes_acked:88080393 segs_out:60859 segs_in:29677 data_segs_out:60857 send 250452213bps lastrcv:7710 pacing_rate 300504704bps delivery_rate 65877728bps delivered:60830 busy:7710ms unacked:28 rcv_space:14480 rcv_ssthresh:64088 notsent:428608 minrtt:0.507
+Sun Oct 15 12:10:33 CEST 2023
 State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-ESTAB 0      571960  192.168.1.12:33284 192.168.1.129:5001 timer:(on,040ms,0) ino:20654 sk:414f52af rto:0.21 cwnd:160 ssthresh:20 reordering:0
-Fri Oct 13 15:04:38 CEST 2023
-State      Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
-FIN-WAIT-1 0      3617    192.168.1.12:33284 192.168.1.129:5001 timer:(on,040ms,0) ino:0 sk:414f52af rto:0.21 cwnd:222 ssthresh:20 reordering:0
-Fri Oct 13 15:04:39 CEST 2023
+ESTAB 0      464808  192.168.1.12:50532 192.168.1.129:5001 timer:(on,030ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t60776,tb479360,f3992,w471144,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:4.319/1.241 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:107 ssthresh:20 bytes_sent:100058248 bytes_acked:100009017 segs_out:69103 segs_in:33676 data_segs_out:69101 send 286984950bps lastrcv:8760 pacing_rate 344381936bps delivery_rate 71506168bps delivered:69068 busy:8760ms unacked:34 rcv_space:14480 rcv_ssthresh:64088 notsent:415576 minrtt:0.507
+Sun Oct 15 12:10:34 CEST 2023
+State Recv-Q Send-Q Local Address:Port   Peer Address:PortProcess
+ESTAB 0      362000  192.168.1.12:50532 192.168.1.129:5001 timer:(on,040ms,0) ino:15362 sk:3 <->
+	 skmem:(r0,rb131072,t45592,tb479360,f1712,w366928,o0,bl0,d0) ts sack cubic wscale:7,6 rto:210 rtt:6.342/1.234 mss:1448 pmtu:1500 rcvmss:536 advmss:1448 cwnd:107 ssthresh:20 bytes_sent:112052032 bytes_acked:112036105 segs_out:77386 segs_in:37718 data_segs_out:77384 send 195441186bps lastrcv:9810 pacing_rate 234506312bps delivery_rate 102116200bps delivered:77374 busy:9810ms unacked:11 rcv_space:14480 rcv_ssthresh:64088 notsent:346072 minrtt:0.507
+Sun Oct 15 12:10:35 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:40 CEST 2023
+Sun Oct 15 12:10:36 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:41 CEST 2023
+Sun Oct 15 12:10:37 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:42 CEST 2023
+Sun Oct 15 12:10:39 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:43 CEST 2023
+Sun Oct 15 12:10:40 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:44 CEST 2023
+Sun Oct 15 12:10:41 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
-Fri Oct 13 15:04:45 CEST 2023
+Sun Oct 15 12:10:42 CEST 2023
 State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
